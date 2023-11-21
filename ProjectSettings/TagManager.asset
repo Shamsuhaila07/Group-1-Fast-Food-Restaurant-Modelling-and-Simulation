@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Queue
+  - Counter
+  - Group-1
+  - Group-2
+  - Stall
+  - PeekSpot
+  - Door
+  - ExitDoor
+  - Food
+  - Agent
+  - FoodCounter
+  - DiningTable
+  - CashColPoint
+  - OrderCounter
+  - DineInArea1
+  - DineInArea2
+  - DineInArea3
+  - DineInArea4
+  - Cash
+  - Cashless
+  - Kiosk
+  - CollectOrderCounter
+  - DineInTable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Table
+  - Water
+  - UI
+  - Chair
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
